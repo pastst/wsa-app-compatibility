@@ -311,7 +311,7 @@ wsa://com.android.settings
 | Twitter | 9.16.1-release.00 | ✅ | Optionally requires GMS ||
 | UC Browser | 13.0.0.1288 (x86) | ✅ || Avoid updating the app |
 | Vanced Manager | 2.6.2 (Crimson) | ✅ |||
-| Vanced MicroG | 0.2.22.212658 | ⚠️ | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account ||
+| Vanced MicroG | 0.2.22.212658 | ✅ | microG now works with google login ||
 | Via Browser | 4.3.1 | ✅ ||
 | Vidio | 5.64.5-f0aa483a3d | 🆖 | | Might require GMS for login |
 | Vivaldi Browser | 4.3.2439.61 | ✅ ||
@@ -339,7 +339,7 @@ wsa://com.android.settings
 | YouTube (Google)| 16.40.35 | 🆖 | Requires GMS |
 | YouTube Music (Google) | 4.49.51 | 🆖 | Requires GMS |
 | Youtube Vanced | 16.29.39 | ⚠️ | Picture-in-picture doesn't work & Can't join channel membership |
-| YouTube Music Vanced | 43.9.50 | ✅ ||
+| YouTube Music Vanced | 4.57.52 | ❌ || (crashes on startup with latest build, use non-Root Version instead with micro - G)
 | Ymusic | 3.7.2 | ✅ ||
 | ZArchiver | 0.9.5.8 (9596) | ✅ ||
 | Zenly (w/o GMS) | 4.55.2 | ⚠️ | App crashes after login, but background location works |
